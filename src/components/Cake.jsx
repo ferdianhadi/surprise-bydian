@@ -128,7 +128,7 @@ function Cake() {
                       }}
                       className="block -translate-x-[60px] translate-y-[105px] -rotate-[30deg] text-gray-200 text-xl "
                     >
-                      blow
+                      Tiup lilin
                     </motion.div>
                     <motion.div
                       animate={{ opacity: [0, 0.25, 0] }}
@@ -139,7 +139,7 @@ function Cake() {
                       }}
                       className="block translate-x-10 translate-y-[80px] rotate-[30deg] text-gray-200 text-xl"
                     >
-                      blow
+                      Tiup lilin
                     </motion.div>
                   </div>
                   <div>
